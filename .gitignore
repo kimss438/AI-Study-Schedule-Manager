@@ -1,0 +1,4 @@
+*.class
+.vscode/
+.DS_Store
+tasks.txt
